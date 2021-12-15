@@ -1,0 +1,5 @@
+name: TreasureWars
+version: 1.0-test
+main: dantedevs\treasurewars\tw
+api: 3.0.0
+author: dantedev
