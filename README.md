@@ -1,5 +1,6 @@
 # TreasureWars
 TreasureWars A fun minigame by DanteDevs (FV/FREE VERSION)
+THIS IS THE PM4 VERSION!
 # ISSUES
 - NO ISSUES YET
 # FEATURES
