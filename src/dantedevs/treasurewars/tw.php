@@ -1,20 +1,19 @@
 <?php
 
-namespace dantedevs\treasurewars;
+namespace ExampleName;
 
 use pocketmine\plugin\PluginBase;
 
-class tw extends PluginBase{ 
+use pocketmine\event\player\PlayerJoinEvent; 
+use pocketmine\Player;
+use pocketmine\Server;
+use pocketmine\event\Listener;
 
-  public function onEnable(){
-    $this->getLogger()->info("§aEnabled TreasureWars §c(Work in progress!)");
-  } 
-    public function onLoad(){
-    $this->getLogger()->info("§bLoading TreasureWars");
-  }
+class Main extends PluginBase implements Listener{
 
-  public function onDisable(){
-    $this->getLogger()->info("§cDisabled TreasureWars");
-  }
+    public function onEnable(){
+        $this->getServer()->getPluginManager()->registerEvents($this,$this);
+        $this->getLogger()->info("TreasureWars PM4 is Enabled");
+    }
 
 }
