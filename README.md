@@ -1,2 +1,8 @@
 # TreasureWars
-TreasureWars A fun minigame by DanteDevs (FV)
+TreasureWars A fun minigame by DanteDevs (FV/FREE VERSION)
+# ISSUES
+- NO ISSUES YET
+# FEATURES
+- NO FEATURES YET
+# COMMING SOON
+- THIS IS COMMING SOON!
