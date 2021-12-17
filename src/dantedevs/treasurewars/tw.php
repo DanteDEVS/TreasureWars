@@ -3,6 +3,8 @@
 namespace dantedevs\treasurewars;
 
 use pocketmine\plugin\PluginBase;
+use pocketmine\entity\Human;
+use pocketmine\utils\TextFormat;
 
 class tw extends PluginBase{ 
 
