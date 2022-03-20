@@ -7,7 +7,7 @@ use pocketmine\entity\Human;
 use pocketmine\utils\TextFormat;
 
 use pocketmine\event\player\PlayerJoinEvent; 
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\Server;
 use pocketmine\event\Listener;
 
